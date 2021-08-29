@@ -22,6 +22,8 @@ https://github.com/TristanLibeau/E-Commerce-Back-End
 
 * Link to walkthrough video:
 
+https://drive.google.com/drive/folders/1mWNdTct17cefLlCMu3zI-x8zVBnqZk4P?usp=sharing
+
 
 
 
